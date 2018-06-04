@@ -1,0 +1,36 @@
+body {
+	background-image: url("assets/background-6.jpg");
+	background-repeat:repeat-y;
+	background-position:top center;
+	background-attachment:fixed;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+	font-size: 60px;
+	color: #FFFFFF;
+}
+
+h2 {
+	background-color: #181818;
+	color: #FFFFFF;
+	line-height: 250%;
+	font-size: 40px;
+}
+
+img {
+	border: 2px solid black;
+	border-color: #FFFFFF;;
+}
+
+p {
+	font-size: 20px;
+	color: #FFFFFF;
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: #181818;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
